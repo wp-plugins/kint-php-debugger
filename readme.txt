@@ -83,7 +83,7 @@ Deactivate and delete this plugin.
 == Screenshots ==
 
 1. An example of what gets rendered in the browser when using 'd( $var )'.
-2. Profiler example.
+2. Profiler example from Kint.
 
 == ChangeLog ==
 
