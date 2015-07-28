@@ -8,11 +8,11 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-[Kint](http://raveren.github.io/kint/) is a a modern and powerful PHP debugging helper, which requires zero-setup and replaces var_dump(), print_r() and debug_backtrace().  This plugin is a wrapper for Kint.
+Kint is a modern and powerful PHP debugging helper, which requires zero-setup and replaces var_dump(), print_r() and debug_backtrace().  This plugin is a wrapper for Kint.
 
 == Description ==
 
-This WordPress plugin is a wrapper for the Kint PHP Debugger utility.  Now instead of using var_dump() or print_r(), you simply use d() with zero, nadda, no formatting required.
+This WordPress plugin is a wrapper for the [Kint](http://raveren.github.io/kint/) PHP Debugger utility.  Now instead of using var_dump() or print_r(), you simply use d() with zero, nadda, no formatting required.
 
 Use this tool when you are debugging your website, in place of **[var_dump()](http://php.net/manual/en/function.var-dump.php)**, **[print_r()](http://php.net/manual/en/function.print-r.php)** and **[debug_backtrace()](http://php.net/manual/en/function.debug-backtrace.php)**.
 
@@ -82,7 +82,8 @@ Deactivate and delete this plugin.
 
 == Screenshots ==
 
-1. An example of what gets rendered in the browser when using d( $var ).
+1. An example of what gets rendered in the browser when using 'd( $var )'.
+2. Profiler example.
 
 == ChangeLog ==
 
